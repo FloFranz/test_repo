@@ -1,1 +1,1 @@
-print('Buche, Eiche, Fichte')
+print('Buche, Eiche, Fichte, Tanne')
