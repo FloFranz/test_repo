@@ -1,0 +1,1 @@
+print('Buche, Eiche, Fichte, Tanne')
